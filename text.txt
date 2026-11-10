@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C2 - Branca 1
+=======
+C2 - Branca 1
+>>>>>>> branca2
